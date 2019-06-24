@@ -1,4 +1,6 @@
-netsh wlan set hostednetwork mode=allow ssid=xxx key= 123456789
+Comandos para criar uma rede wifi no Windowns
+1- netsh wlan set hostednetwork mode=allow ssid=xxx key= 123456789
 
-netsh wlan start hostednetwork
-12345
+2- netsh wlan start hostednetwork
+
+Adicionar comandos no cmd em modo adm.
